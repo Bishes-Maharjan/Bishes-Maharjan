@@ -73,7 +73,7 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Bishes-Maharjan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Bishes-Maharjan&layout=compact&theme=tokyonight" />
 </p>
 ---
 
