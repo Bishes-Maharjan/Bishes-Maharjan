@@ -109,8 +109,8 @@ I’ve worked on **both practical ML models** and **theoretical understanding**.
 
 <!-- Main Stats -->
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Bishes-Maharjan&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishes-Maharjan&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Bishes-Maharjan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishes-Maharjan&theme=tokyonight" />
 </p>
 
 <!-- Top Languages -->
