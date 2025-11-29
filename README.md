@@ -5,7 +5,7 @@
 
 ---
 
-##  About Me
+## 🌟 About Me
 
 I'm **Bishes Maharjan**, a Machine Learning + Backend Developer with strong experience in **enterprise-style backend engineering**, **ML training workflows**, and **AI system design**.
 
@@ -20,7 +20,7 @@ I like building things that are **fast**, **scalable**, and **cleanly structured
 
 ---
 
-##  Backend Engineering Experience
+## 🔥 Backend Engineering Experience
 
 I have practical experience building **enterprise-grade NestJS systems**, including:
 
@@ -72,7 +72,7 @@ I’ve worked on **both practical ML models** and **theoretical understanding**.
 
 ---
 
-##  Tech Stack
+## 🚀 Tech Stack
 
 ### **Programming Languages**
 <p>
@@ -105,7 +105,7 @@ I’ve worked on **both practical ML models** and **theoretical understanding**.
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <!-- Main Stats -->
 <p align="center">
@@ -120,7 +120,7 @@ I’ve worked on **both practical ML models** and **theoretical understanding**.
 
 ---
 
-##  Current Focus
+## 🎯 Current Focus
 
 - Advanced NestJS (interceptors, pipes, custom decorators)  
 - Microservices with message brokers  
@@ -130,14 +130,14 @@ I’ve worked on **both practical ML models** and **theoretical understanding**.
 
 ---
 
-##  Connect With Me
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bishes-maharjan-8367892a8/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href="https://github.com/Bishes-Maharjan"><img src="https://skillicons.dev/icons?i=github"></a>
 </p>
 
- **Phone:** 9866298141
+📞 **Phone:** 9866298141
 
 ---
 
