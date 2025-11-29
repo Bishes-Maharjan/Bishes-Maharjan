@@ -78,7 +78,7 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
 
 ---
 
-## 🔥 Highlighted ML Experience  
+## ML Experience  
 
 - ✔ Completed **ML Fellowship**  
 - ✔ YOLO **custom object detection** fine-tuned on Kaggle data  
@@ -90,7 +90,7 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
 
 ---
 
-## 📚 Currently Learning  
+## Currently Learning  
 - Model deployment & serving (FastAPI + Docker + HF Spaces)  
 - More deep learning with PyTorch  
 - Linux workflow & system-level tooling  
@@ -98,7 +98,7 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
 
 ---
 
-## 🔗 Connect With Me  
+## Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/bishes-maharjan-8367892a8/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -108,7 +108,7 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
   </a>
 </p>
 
-📞 **Phone:** 9866298141  
+ **Phone:** 9866298141  
 
 ---
 
@@ -116,4 +116,4 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">⭐ Always exploring. Always building. Always improving.</p>
+<p align="center"> Always exploring. Always building. Always improving.</p>
