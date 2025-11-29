@@ -68,14 +68,13 @@ currently pursuing a **BCA** and diving deep into **AI systems**,
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bishes-Maharjan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Bishes-Maharjan&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bishes-Maharjan&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishes-Maharjan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Bishes-Maharjan&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## ML Experience  
